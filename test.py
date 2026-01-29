@@ -1,0 +1,1 @@
+print("Amity university Rajsthan")
